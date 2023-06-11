@@ -1,0 +1,2 @@
+osource "/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/fusesoc_libraries/swervolf/zephyr/soc/$(ARCH)/*/Kconfig.defconfig"
+osource "/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/zephyr/soc/$(ARCH)/*/Kconfig.defconfig"

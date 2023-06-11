@@ -1,0 +1,4 @@
+"BOARD_ROOT":"/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/fusesoc_libraries/swervolf/zephyr"
+"DTS_ROOT":"/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/fusesoc_libraries/swervolf/zephyr"
+"SOC_ROOT":"/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/fusesoc_libraries/swervolf/zephyr"
+"ARCH_ROOT":"/root/RVfpgaSoC/Labs/LabProjects/SweRVolf/fusesoc_libraries/swervolf/zephyr"
